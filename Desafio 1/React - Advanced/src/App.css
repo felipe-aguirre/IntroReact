@@ -1,0 +1,10 @@
+.App {
+  margin-top: 2cm;
+  
+}
+.err {
+  border: 1px solid red;
+}
+.succ {
+  border: 1px solid green;
+}

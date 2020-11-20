@@ -90,6 +90,8 @@ Concepto fundamental en React y React Native, independiente del tipo de proyecto
 - Si el usuario y la contraseña corresponden a un **valor fijo** determinado con anterioridad, entonces se debe mostrar un mensaje de inicio exitoso **modificando un estado** inicializado como string vacío.
 - Si el usuario y la contraseña no corresponden, modificar el **mismo estado** anterior, con un mensaje de advertencia.
 - Revisar la cápsula correspondiente (pendiente)
+- No es necesario implementar un servidor/API, la verificación es **solo** a nivel local
+- No es necesario redirigir al usuario a otra ventana, eso se verá en el siguiente desafío
 
 #### Material de apoyo:
 
